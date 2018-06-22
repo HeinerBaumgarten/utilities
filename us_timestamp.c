@@ -1,9 +1,9 @@
 /*
  ============================================================================
  Name        : timestamp2.c
- Author      : 
- Version     :
- Copyright   : Your copyright notice
+ Author      : Heiner Baumgarten
+ Version     : 1.0
+ Copyright   : You can do what you want
  Description : Hello World in C, Ansi-style
  ============================================================================
  */
